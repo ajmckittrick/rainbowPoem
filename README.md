@@ -7,4 +7,4 @@ Blue
 Indigo
 violet
 and a cute bear
-and an ugly bear 
+and an ugly bear :(
